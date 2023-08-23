@@ -1,0 +1,36 @@
+/** HEADER **/
+.navbar {
+  background-color: #5a1b41;
+  border-radius: 0;
+  border: 0;
+}
+
+#navbar-brand, .navbar-header button.navbar-toggle {
+  color: white;
+  margin-left: 1.5vh;
+  margin-top: 1.5vh;
+  margin-bottom: 1.5vh;
+  font-size: 2em;
+}
+
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+  background-color: white;
+}
+
+ul {
+  background-color: #f7c6b1;
+}
+
+.container#main-content {
+  width: 100%;
+}
+
+.content-panel {
+  height: 2000px;
+  background-color: #f7c6b1;
+  padding: 1em;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
